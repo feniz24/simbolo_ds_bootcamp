@@ -1,6 +1,6 @@
 # Simbolo Data Science Bootcamp – Class Project
 
-This repository contains my class project for the **Simbolo Data Science Bootcamp**. The project demonstrates the application of data science concepts and techniques learned during the bootcamp, including data analysis, visualization, and machine learning.
+This repository contains my class project for the **[Simbolo](https://www.facebook.com/Simboloit) Data Science Bootcamp**. The project demonstrates the application of data science concepts and techniques learned during the bootcamp, including data analysis, visualization, and machine learning.
 
 ## Project Overview
 
